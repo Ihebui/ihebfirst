@@ -1,0 +1,26 @@
+    .green{
+    color: rgb(0,118,0);
+    }
+    .blue{
+    color: rgb(0,113,113);
+    }
+    .Add{
+    background-color: rgb(255,216,20);
+    border-radius: 18px;
+    border: none;
+    width: 110px;
+    height: 36px;
+    font-size: 13px;
+    font-style: bold;
+    font-weight: bold;
+    }
+    .Buy{
+    background-color: rgb(255,164,28);
+    border-radius: 18px;
+    border: none;
+    width: 110px;
+    height: 36px;
+    font-size: 13px;
+    font-style: bold;
+    font-weight: bold;
+    }
